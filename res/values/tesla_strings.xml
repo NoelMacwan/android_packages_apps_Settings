@@ -355,6 +355,7 @@
     <string name="disable_fc_notifications_summary">This will hide all force close notificaitons</string>
 
    <!-- Lock screen -->
+    <string name="lock_screen_title">Lock screen</string>
     <string name="lock_screen_weather_settings_title">Weather</string>
     <string name="lock_screen_weather_settings_summary">Customize Weather</string>
 
@@ -372,5 +373,9 @@
     <string name="weather_condition_icon_vclouds_title">VClouds</string>
     <string name="weather_colorize_all_icons_title">Colorize all icons</string>
     <string name="weather_colorize_all_icons_summary">Enable to colorize all icons, disable to colorize only the monochrome icons</string>
-
+    
+    <string name="colors_title">Colors</string>
+    <string name="text_title">Text</string>
+    <string name="icons_title">Icons</string>
+    
 </resources>
