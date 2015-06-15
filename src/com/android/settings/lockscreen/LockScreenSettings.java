@@ -190,7 +190,7 @@ public class LockScreenSettings extends SettingsPreferenceFragment
         mVisiblePattern = (SwitchPreference) root.findPreference(KEY_VISIBLE_PATTERN);
 
         // visible gesture
-        mVisibleGesture = (SwitchPreference) root.findPreference(KEY_VISIBLE_GESTURE)
+        mVisibleGesture = (SwitchPreference) root.findPreference(KEY_VISIBLE_GESTURE);
 
         // visible error pattern
         mVisibleErrorPattern = (SwitchPreference) root.findPreference(KEY_VISIBLE_ERROR_PATTERN);
